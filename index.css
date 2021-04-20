@@ -501,6 +501,9 @@ display: inline-block;
     font-size: 3.6vw;
 }
 
+    #email{ 
+        font-size: 15px;
+    }
 
 @media only screen and (max-width: 420px) and (min-width: 320px){
 
@@ -516,7 +519,7 @@ display: inline-block;
     font-size: 19px;
 }
     #email{ 
-        font-size: 17px;
+        font-size: 15px;
     }
     
 
