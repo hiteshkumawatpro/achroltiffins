@@ -23,7 +23,7 @@ body{
     color: coral;
 }
 #headerstaticbar{
-    overflow-x : hidden;
+    overflow-x: hidden;
     position: fixed;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.74);
@@ -515,6 +515,8 @@ display: inline-block;
 .self-info{
     font-size: 19px;
 }
+    #email{ 
+        font-size: 17px;
     }
     
 
