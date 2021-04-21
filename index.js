@@ -26,3 +26,9 @@ function fn(){
     }
 
 }
+
+
+function disablesubmit(){
+    setTimeout( function(){document.getElementById('submitbutton').disabled= true; document.getElementById('submitbutton').setAttribute("style"," opacity:.5;cursor:pointer;");}, 2000);
+    
+}
